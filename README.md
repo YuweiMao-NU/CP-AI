@@ -5,7 +5,6 @@ This is the code for paper "A deep learning-based crystal plasticity finite elem
 ## Installation Requirements
 The basic requirement for using the files is a Python 3.6.3 environment with PyTorch 2.3.0
 ## Source Files
-### SSC_prediction
 
 - MLtrain.py is the code for model training.
 - Cp-ML-PowerLaw-func.py is the main code file for the whole CP-AI framework.
