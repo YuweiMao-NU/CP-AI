@@ -17,7 +17,7 @@ If you want to predict a stress-strain curve using this framework, please change
 The code was developed by Yuwei Mao from the [CUCIS](http://cucis.ece.northwestern.edu/index.html) group at the Electrical and Computer Engineering Department at Northwestern University.
 
 ## Publication
-1. Mao, Yuwei, Shahriyar Keshavarz, Muhammed Nur Talha Kilic, Kewei Wang, Youjia Li, Andrew CE Reid, Wei-keng Liao, Alok Choudhary, and Ankit Agrawal. "A deep learning-based crystal plasticity finite element model." Scripta Materialia 254 (2025): 116315.[PDF]([https://ieeexplore.ieee.org/abstract/document/10191138](https://www.sciencedirect.com/science/article/pii/S1359646224003506))
+1. Mao, Yuwei, Shahriyar Keshavarz, Muhammed Nur Talha Kilic, Kewei Wang, Youjia Li, Andrew CE Reid, Wei-keng Liao, Alok Choudhary, and Ankit Agrawal. "A deep learning-based crystal plasticity finite element model." Scripta Materialia 254 (2025): 116315.[PDF]([https://ieeexplore.ieee.org/abstract/document/10191138](https://www.sciencedirect.com/science/article/pii/S1359646224003506)
 
 ## Disclaimer
 The research code shared in this repository is shared without any support or guarantee on its quality. However, please do raise an issue if you find anything wrong and I will try my best to address it.
